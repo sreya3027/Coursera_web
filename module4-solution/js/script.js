@@ -14,7 +14,7 @@ Hello Larry
 Hello Paula
 Hello Laura
 Hello Nathan
-Good Bye Jonathan
+Good Bye Jim
 Hello Drake
 */
 
