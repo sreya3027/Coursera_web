@@ -9,13 +9,10 @@ Good Bye Jen
 Good Bye Jason
 Hello Paul
 Hello Frank
-Good Bye Jamie
 Hello Larry
 Hello Paula
 Hello Laura
-Hello Nathan
 Good Bye Jim
-Hello Drake
 */
 
 (function() {
